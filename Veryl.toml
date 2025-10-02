@@ -1,0 +1,12 @@
+[project]
+name = "tsukushi"
+version = "0.1.0-dev"
+authors = ["Masanori Ogino"]
+license = "CERN-OHL-W-2.0+"
+repository = "https://github.com/omasanori/tsukushi"
+[build]
+sources = ["src"]
+target = {type = "directory", path = "target"}
+
+# SPDX-FileCopyrightText: 2025 The Tsukushi Developers
+# SPDX-License-Identifier: MPL-2.0

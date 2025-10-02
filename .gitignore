@@ -1,0 +1,8 @@
+# SPDX-FileCopyrightText: 2025 The Tsukushi Developers
+# SPDX-License-Identifier: MPL-2.0
+.build/
+dependencies/
+target/
+
+*.f
+*.sv
