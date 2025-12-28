@@ -8,6 +8,10 @@ software of Tsukushi are licensed under weakly-reciprocal licenses so that you
 can integrate Tsukushi into your project without worries while we can keep
 Tsukushi free and open-source.
 
+The development of Tsukushi happens primarily on [Radicle]. The repository is
+<rad://z2TifHAMvqbWK2gxihqwgnq8wHhKS>. We also accept contributions via GitHub
+at <https://github.com/omasanori/tsukushi>.
+
 ## Status
 
 We are working on Eboshi (烏帽子), the first microarchitecture of Tsukushi.
@@ -24,6 +28,7 @@ Unless otherwise noted, the associated software is licensed under the
 
 The documentation is licensed under [CC BY-SA 4.0](./LICENSES/CC-BY-SA-4.0.txt).
 
+[Radicle]: https://radicle.xyz
 [Veryl]: https://veryl-lang.org
 
 <!--
